@@ -1,0 +1,15 @@
+{
+    "name": "leixikun/test",
+    "description": "这是一个测试composer init 项目",
+    "type": "php",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "leixikun",
+            "email": "769052615@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
